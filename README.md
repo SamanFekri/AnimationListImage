@@ -24,6 +24,8 @@ easy to use.
  		AnimationListImage animationListImage = (AnimationListImage) findViewById(R.id.animationListImage1);
 		animationListImage.showAnimationListAsImage(R.drawable.load);
  ```
+ 
+
 ## License
 > Copyright SKings (c) 2015
 
