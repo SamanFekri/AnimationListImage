@@ -25,5 +25,5 @@ easy to use.
 		animationListImage.showAnimationListAsImage(R.drawable.load);
  ```
 ## License
-Copyright SKings (c) 2015
-AnimationListImage released under GPL3
+> Copyright SKings (c) 2015
+> AnimationListImage released under GPL3
