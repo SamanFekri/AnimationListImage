@@ -26,4 +26,5 @@ easy to use.
  ```
 ## License
 > Copyright SKings (c) 2015
+
 > AnimationListImage released under GPL3
